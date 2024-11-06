@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/Morrigan-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morrigan-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Morrigan-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Morrigan-silva&theme=tokyonight-duo&hide_border=true&border_radius=4.1&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
