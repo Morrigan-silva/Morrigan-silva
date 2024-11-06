@@ -7,7 +7,7 @@
 </div>
 
 
-## Stars and Contribui
+## Estrelas e commits
 
 
 <div align="center">
@@ -21,7 +21,7 @@
   
 </div>
 
-## Used Languages
+## Linguagens utilizadas
 
 
 <div style="display: inline_block" align="center">
