@@ -10,8 +10,6 @@
       Tenho gosto de aprender aquilo que me chama atenção, trabalho bem em grupo e meus projetos geram os resultados esperados.
    </p>
    - 🔭 Atualmente estou desenvolvendo um aplicativo de lendas da cidade de São Luis - MA
-   📫 Contato:
-  - [E-mail](mailto:evellingsantosl@gmail.com)
 </div>
 
 
