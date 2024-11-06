@@ -1,9 +1,6 @@
-![Evellin](https://files.fm/u/6mktheq6q5)
-
 <div align="center">
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Olá,+Meu+nome+é+Evellin+Gonçalves;I+really+like+programming;and+solving+challenges)](https://git.io/typing-svg)
-
+   <img src="https://github.com/Morrigan-silva/Morrigan-silva/blob/main/vellin.png" align="center"/>
+   <br></br>
 </div>
 
 
